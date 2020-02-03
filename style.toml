@@ -1,0 +1,6 @@
+[colors]
+background = "black"
+view = "black"
+primary = "white"
+highlight = ["#d79921", "darkyellow"]
+highlight_inactive = ["#a89984", "grey"]
